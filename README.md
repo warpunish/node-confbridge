@@ -1,4 +1,6 @@
 # About
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwarpunish%2Fnode-confbridge.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwarpunish%2Fnode-confbridge?ref=badge_shield)
+
 
 This is a basic configuration for a Conference Bridge Application using ARI and
 Node.js.
@@ -262,3 +264,7 @@ a leader joins the conference they enter the conference as well.
 Determines how many users are allowed in each specified group.
 * type: integer
 * default: 100
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwarpunish%2Fnode-confbridge.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwarpunish%2Fnode-confbridge?ref=badge_large)
